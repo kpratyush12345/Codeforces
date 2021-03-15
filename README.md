@@ -1,3 +1,3 @@
-# Codeforces-Ladder-N
+# Codeforces
 
 ![Codeforces](https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg)
